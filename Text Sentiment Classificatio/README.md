@@ -5,8 +5,11 @@
 >除了有label的data以外，我們還額外提供了120萬筆左右沒有label的data
 
 >labeled training data    ：20萬
+
 >unlabeled training data  ：120萬
+
 >testing data             ：20萬（10萬public，10萬private）
+
 
 > 相關格式及報告說明請詳閱:
 
