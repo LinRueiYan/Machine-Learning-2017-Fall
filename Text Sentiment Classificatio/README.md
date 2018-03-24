@@ -8,6 +8,7 @@
 >testing data             ：20萬（10萬public，10萬private）
 
 > 相關格式及報告說明請詳閱:
+
 > [PPT] (https://docs.google.com/presentation/d/1HnyZowEamy8N4cUT0gY4aoRZuBTluIuoe8uYQdFxhI0/edit#slide=id.g2ac1871ea3_0_0)
 > [作業網址] (https://ntumlta.github.io/2017fall-ml-hw4/)
 
